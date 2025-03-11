@@ -58,7 +58,7 @@ my-discord-uploader/
    BASE_URL=http://yourdomain.com or http://localhost:3000
    PORT=3000
    ```
-   Ganti `YOUR_DISCORD_BOT_TOKEN` dengan token bot Discord Anda.
+   Ganti `YOUR_DISCORD_BOT_TOKEN` dengan token bot Discord Anda, dan `http://yourdomain.com or http://localhost:3000` ganti dengan Domain anda atau Gunakan Localhost untuk menyoba Dilocal komputer anda.
 
 4. **Jalankan Bot:**
    ```bash
@@ -89,4 +89,4 @@ my-discord-uploader/
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+Proyek ini dilisensikan di bawah [MIT License](https://github.com/YudhaUNSP/samp-boombox-discord/blob/main/LICENSE).
